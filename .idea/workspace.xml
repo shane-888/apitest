@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e6b99d6-2c92-4f7c-9956-fe8136d26342" name="Default Changelist" comment="修改报告名">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="3e6b99d6-2c92-4f7c-9956-fe8136d26342" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/api.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/mkcp/api/listeners/ExtentTestNGIReporterListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mkcp/api/listeners/ExtentTestNGIReporterListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mkcp/api/utils/JDBCUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mkcp/api/utils/JDBCUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mkcp/api/utils/ReportUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mkcp/api/utils/ReportUtil.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,8 +59,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/mkcp/api/listeners/ExtentTestNGIReporterListener.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="25" column="31" lean-forward="true" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+            <state relative-caret-position="200">
+              <caret line="22" column="116" selection-start-line="22" selection-start-column="116" selection-end-line="22" selection-end-column="116" />
             </state>
           </provider>
         </entry>
@@ -219,7 +213,7 @@
     <property name="SearchEverywhereHistoryKey" value="verify&#9;PSI&#9;JAVA://com.mkcp.api.beans.ApiDataBean#verify&#10;mysql&#9;PSI&#9;JAVA://com.mysql.jdbc.MysqlCharset" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570943045264" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570943611676" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../Luckyframe/LuckyFrameClient" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -298,8 +292,16 @@
       <workItem from="1569810439425" duration="18743000" />
       <workItem from="1570673052521" duration="2188000" />
       <workItem from="1570710907441" duration="5440000" />
-      <workItem from="1570783338332" duration="3666000" />
+      <workItem from="1570783338332" duration="4200000" />
     </task>
+    <task id="LOCAL-00001" summary="修改报告路径">
+      <created>1570943080080</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1570943080080</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -335,7 +337,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74508000" />
+    <option name="totallyTimeSpent" value="75042000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -350,7 +352,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27025586" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27025586" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -367,7 +369,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32899022" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.30510315" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.30510315" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="11" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32899022" />
@@ -393,7 +395,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="修改报告名" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改报告名" />
+    <MESSAGE value="修改报告路径" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改报告路径" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -650,8 +653,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mkcp/api/listeners/ExtentTestNGIReporterListener.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="25" column="31" lean-forward="true" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+        <state relative-caret-position="200">
+          <caret line="22" column="116" selection-start-line="22" selection-start-column="116" selection-end-line="22" selection-end-column="116" />
         </state>
       </provider>
     </entry>
