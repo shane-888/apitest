@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e6b99d6-2c92-4f7c-9956-fe8136d26342" name="Default Changelist" comment="">
+    <list default="true" id="3e6b99d6-2c92-4f7c-9956-fe8136d26342" name="Default Changelist" comment="修改报告路径1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,16 +23,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="775">
-              <caret line="58" column="28" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
+            <state relative-caret-position="86">
+              <caret line="36" column="25" selection-start-line="30" selection-start-column="8" selection-end-line="36" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testng.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="575">
@@ -112,9 +112,9 @@
         <option value="$PROJECT_DIR$/api-config.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/mkcp/api/utils/JDBCUtil.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/mkcp/api/utils/ReportUtil.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/mkcp/api/listeners/ExtentTestNGIReporterListener.java" />
         <option value="$PROJECT_DIR$/testng.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -247,7 +247,7 @@
     <property name="SearchEverywhereHistoryKey" value="verify&#9;PSI&#9;JAVA://com.mkcp.api.beans.ApiDataBean#verify&#10;mysql&#9;PSI&#9;JAVA://com.mysql.jdbc.MysqlCharset" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570945105522" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570946188387" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../Luckyframe/LuckyFrameClient" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -326,7 +326,7 @@
       <workItem from="1569810439425" duration="18743000" />
       <workItem from="1570673052521" duration="2188000" />
       <workItem from="1570710907441" duration="5440000" />
-      <workItem from="1570783338332" duration="5632000" />
+      <workItem from="1570783338332" duration="6644000" />
     </task>
     <task id="LOCAL-00001" summary="修改报告路径">
       <created>1570943080080</created>
@@ -349,7 +349,21 @@
       <option name="project" value="LOCAL" />
       <updated>1570944443680</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="修改报告路径1">
+      <created>1570945210745</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1570945210745</updated>
+    </task>
+    <task id="LOCAL-00005" summary="修改报告路径1">
+      <created>1570945257409</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1570945257409</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -385,7 +399,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76474000" />
+    <option name="totallyTimeSpent" value="77486000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -696,6 +710,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mkcp/api/listeners/ExtentTestNGIReporterListener.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
@@ -708,15 +729,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="775">
-          <caret line="58" column="28" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testng.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="86">
+          <caret line="36" column="25" selection-start-line="30" selection-start-column="8" selection-end-line="36" selection-end-column="25" />
         </state>
       </provider>
     </entry>
