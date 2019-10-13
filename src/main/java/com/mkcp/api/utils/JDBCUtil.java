@@ -33,7 +33,7 @@ public class JDBCUtil {
       conn = DriverManager.getConnection(DB_URL, USER, PASS);
       System.out.println(" 实例化Statement对象...");
       stmt = conn.createStatement();
-      String sql = "SELECT * FROM api_data";
+      String sql = "SELECT * FROM frontend";
       ResultSet rs = stmt.executeQuery(sql);
       ApiDataBean apiDataBean1 = null;
       while (rs.next()) {

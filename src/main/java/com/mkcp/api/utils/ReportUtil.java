@@ -6,7 +6,7 @@ import java.util.Calendar;
 import java.util.Date;
 
 public class ReportUtil {
-	private static String reportName = "mkcp接口测试报告";
+	private static String reportName = "api-test测试报告";
 
 	private static String splitTimeAndMsg = " ===》";
 	public static void log(String msg) {

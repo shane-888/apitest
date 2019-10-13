@@ -20,7 +20,7 @@ import java.util.*;
 public class ExtentTestNGIReporterListener implements IReporter {
 
   //生成的路径以及文件名
-  private static final String OUTPUT_FOLDER = "D://test-output/";
+  private static final String OUTPUT_FOLDER = "D://workspace//test-java//master//Api-Java//mkcp_api_autotest//apitest/";
   private static final String FILE_NAME = "report.html";
 
   private ExtentReports extent;
@@ -119,7 +119,7 @@ public class ExtentTestNGIReporterListener implements IReporter {
     htmlReporter.config().setChartVisibilityOnOpen(true);
     htmlReporter.config().setTestViewChartLocation(ChartLocation.TOP);
     htmlReporter.config().setTheme(Theme.STANDARD);
-    htmlReporter.config().setEncoding("GBK");
+    htmlReporter.config().setEncoding("gbk");
     //设置点击效果：.node.level-1  ul{ display:none;} .node.level-1.active ul{display:block;}
     //设置系统信息样式：.card-panel.environment  th:first-child{ width:30%;}
     htmlReporter.config().setCSS(
